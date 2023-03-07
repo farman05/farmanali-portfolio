@@ -22,10 +22,10 @@ const Banner = () => {
                         </a>
                         <a href="#" className="instagram">
                             <i className="bx bxl-instagram" />
-                        </a>
-                        <a href="#" className="google-plus">
-                            <i className="bx bxl-skype" />
                         </a> */}
+                        <a href="https://github.com/farman05" target={"_blank"} className="google-plus">
+                            <i className="bx bxl-github" />
+                        </a>
                         <a target={"_blank"} href="https://in.linkedin.com/in/farman-ali-hussain-970116106" className="linkedin">
                             <i className="bx bxl-linkedin" />
                         </a>
