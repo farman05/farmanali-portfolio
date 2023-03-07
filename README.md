@@ -1,6 +1,6 @@
-# My Personal Portfolio
+# My Portfolio
 
-My personal portfolio is a website that showcases my skills, experience, and projects as a full-stack developer. The website is built using React.js and features a clean, modern design that highlights my work and provides an intuitive user experience.
+A portfolio website that showcases my skills, experience, and projects as a full-stack developer. The website is built using React.js and features a clean, modern design that highlights my work and provides an intuitive user experience.
 
 ## Built With
 * React.js
@@ -8,8 +8,6 @@ My personal portfolio is a website that showcases my skills, experience, and pro
 * CSS
 * JavaScript
 * Bootstrap
-
-In the project directory, you can run:
 
 ### `Getting Started`
 
